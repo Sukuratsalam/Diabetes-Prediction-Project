@@ -1,2 +1,2 @@
 # Diabetes-Prediction-Project
-Predicting diabetes status of patients using classification algorithms
+Predicting the diabetes status of patients using classification algorithms, The model is optimized using ensemble method.
